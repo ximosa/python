@@ -1,0 +1,4 @@
+ebooklib
+nltk
+transformers
+torch
